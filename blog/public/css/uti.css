@@ -1,0 +1,41 @@
+
+.center-div{
+    text-align: center;
+}
+
+#blog-name{
+    background-color: brown;
+    color: white;
+    
+}
+
+#body-style{
+    background-color: black;
+}
+.card-on-left{
+
+    text-align: left;
+}
+
+.card-width{
+    width: 21rem;
+}
+
+.card-div-width{
+    width: 100px;
+}
+
+.main-block-width{
+    width: 2000px;
+}
+
+.sec-card{
+    background-color: white;
+
+}
+
+.small-image{
+    width: 200px;
+    height: 200px;
+}
+
